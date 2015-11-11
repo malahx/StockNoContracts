@@ -1,5 +1,5 @@
 #### StockNoContracts
-#### A plugin for Kerbal Space Program 1.0.2
+#### A plugin for Kerbal Space Program 1.0.X
 #### Copyright 2015 Malah
 
 This is free and unencumbered software released into the public domain.
@@ -24,6 +24,10 @@ You need to delete the StockNoContracts folder in your KSP/GameData folder.
 
 #### Changelog
 
+v1.01 - 2015.11.11
+* Update ModuleManager to 2.6.13,
+* Update to KSP 1.0.5
+
 v1.00 - 2015.06.05
 * First release
 
@@ -36,6 +40,7 @@ v1.00 - 2015.06.05
 
 #### Links
 
-* http://forum.kerbalspaceprogram.com/threads/99869
+* http://forum.kerbalspaceprogram.com/threads/99869#StockNoContracts
+* https://kerbalstuff.com/mod/897/StockNoContracts
 * https://github.com/malahx/StockNoContracts
 * ModuleManager: http://forum.kerbalspaceprogram.com/threads/55219

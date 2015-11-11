@@ -2,17 +2,17 @@
 	"NAME": "StockNoContracts",
 	"URL": "https://raw.githubusercontent.com/malahx/StockNoContracts/StockNoContracts.version",
 	"CHANGE_LOG_URL": "https://raw.githubusercontent.com/malahx/StockNoContracts/master/README.md", 
-	"DOWNLOAD": "https://github.com/malahx/StockNoContracts/releases"
-	"VERSION":{"MAJOR":1,"MINOR":0,"PATCH":0,"BUILD":0},
+	"DOWNLOAD": "https://kerbalstuff.com/mod/897/StockNoContracts",
+	"VERSION":{"MAJOR":1,"MINOR":0,"PATCH":1,"BUILD":0},
     "KSP_VERSION": {
         "MAJOR": 1,
         "MINOR": 0,
-        "PATCH": 2
+        "PATCH": 5
     },
     "KSP_VERSION_MIN": {
         "MAJOR": 1,
         "MINOR": 0,
-        "PATCH": 0
+        "PATCH": 5
     },
     "KSP_VERSION_MAX": {
         "MAJOR": 1,
