@@ -1,6 +1,6 @@
 #### StockNoContracts
 #### A plugin for Kerbal Space Program
-#### Copyright 2016 Malah
+#### Copyright 2017 Malah
 
 This is free and unencumbered software released into the public domain.
 
@@ -8,7 +8,7 @@ This is free and unencumbered software released into the public domain.
 
 StockNoContracts is a ModuleManager config file which disables all stock contracts types. You can easly edit it to enable the contract type that you want to keep.
 
-This config file requires ModuleManager v2.6.X.
+This config file requires ModuleManager v2.7.X.
 
 #### How to install it ?
 
@@ -23,6 +23,10 @@ Unzip all files. Merge the new StockNoContracts folder with the old folder which
 You need to delete the StockNoContracts folder in your KSP/GameData folder.
 
 #### Changelog
+
+v1.03 - 2017.01.14
+* Update ModuleManager to 2.7.5,
+* Update to KSP 1.2.2
 
 v1.02 - 2016.04.22
 * Update ModuleManager to 2.6.22,
